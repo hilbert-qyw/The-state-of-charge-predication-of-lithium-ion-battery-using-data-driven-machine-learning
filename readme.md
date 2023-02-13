@@ -1,4 +1,4 @@
-The state-of-charge predication of lithium-ion battery  using data-driven machine learning
+## The state-of-charge predication of lithium-ion battery  using data-driven machine learning
 
 Author: Yuwen Qin, Xin Chen
 
